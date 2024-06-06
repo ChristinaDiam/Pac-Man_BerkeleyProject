@@ -1,4 +1,4 @@
-# Pac-Man Projects #
+# Pac-Man Project Berkeley #
 
 Implementation of Berkeley Pac-Man Project. 
   
